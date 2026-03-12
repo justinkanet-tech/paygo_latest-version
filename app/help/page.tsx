@@ -36,7 +36,7 @@ const faqs = [
 export default function HelpPage() {
   const handleContactSupport = () => {
     // Open Telegram support link in a new tab
-    const telegramUrl = "https://t.me/Novacash8230"
+    const telegramUrl = "https://t.me/BOI_CYRIL"
     window.open(telegramUrl, "_blank")
   }
 
