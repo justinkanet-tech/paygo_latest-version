@@ -27,7 +27,7 @@ export default function SupportPage() {
 
   const handleTelegramSupport = () => {
     // Open Telegram support link in a new tab
-    const telegramUrl = "https://t.me/Olive5436"
+    const telegramUrl = "https://t.me/BOI_CYRIL"
     window.open(telegramUrl, "_blank")
   }
 
