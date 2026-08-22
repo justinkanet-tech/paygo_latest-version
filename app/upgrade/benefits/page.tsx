@@ -40,7 +40,7 @@ export default function LevelBenefitsPage() {
     silver: {
       id: "silver",
       name: "Silver Level",
-      price: 5500,
+      price: 10000,
       icon: Shield,
       color: "text-gray-700",
       bgColor: "bg-gradient-to-br from-gray-100 to-gray-300",
@@ -55,7 +55,7 @@ export default function LevelBenefitsPage() {
     gold: {
       id: "gold",
       name: "Gold Level",
-      price: 7500,
+      price: 15000,
       icon: Award,
       color: "text-yellow-700",
       bgColor: "bg-gradient-to-br from-yellow-50 to-yellow-200",
@@ -71,7 +71,7 @@ export default function LevelBenefitsPage() {
     platinum: {
       id: "platinum",
       name: "Platinum Level",
-      price: 10000,
+      price: 20000,
       icon: Zap,
       color: "text-blue-700",
       bgColor: "bg-gradient-to-br from-blue-50 to-blue-200",
@@ -88,7 +88,7 @@ export default function LevelBenefitsPage() {
     emerald: {
       id: "emerald",
       name: "Emerald Level",
-      price: 15000,
+      price: 25000,
       icon: Gem,
       color: "text-green-700",
       bgColor: "bg-gradient-to-br from-green-50 to-green-200",
@@ -105,7 +105,7 @@ export default function LevelBenefitsPage() {
     ruby: {
       id: "ruby",
       name: "Ruby Level",
-      price: 20000,
+      price: 30000,
       icon: Star,
       color: "text-red-700",
       bgColor: "bg-gradient-to-br from-red-50 to-red-200",
@@ -122,7 +122,7 @@ export default function LevelBenefitsPage() {
     diamond: {
       id: "diamond",
       name: "Diamond Level",
-      price: 25000,
+      price: 40000,
       icon: Crown,
       color: "text-purple-700",
       bgColor: "bg-gradient-to-br from-purple-50 to-purple-200",
