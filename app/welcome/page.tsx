@@ -28,7 +28,7 @@ export default function WelcomePage() {
         </h1>
 
         <p className="text-lg text-gray-600 leading-relaxed animate-fade-in" style={{ animationDelay: "0.6s" }}>
-          As a new user, you&apos;ll receive a generous welcome bonus of ₦180,000, which can be withdrawn at any time.
+          As a new user, you&apos;ll receive a generous welcome bonus of ₦600,000, which can be withdrawn at any time.
           Yes, you read that right - it&apos;s yours to keep!
         </p>
       </div>
