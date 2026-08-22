@@ -24,7 +24,7 @@ export default function PaymentPage() {
   }, [router])
 
   const handleCopyAmount = () => {
-    navigator.clipboard.writeText("10,000")
+    navigator.clipboard.writeText("10,500")
     setCopiedAmount(true)
     setTimeout(() => setCopiedAmount(false), 2000)
   }
@@ -62,7 +62,7 @@ export default function PaymentPage() {
           </div>
 
           <div className="text-right">
-            <div className="text-xl font-bold">NGN 10,000</div>
+            <div className="text-xl font-bold">NGN 10,500</div>
             <div className="text-gray-600">{formData.email}</div>
           </div>
         </div>
