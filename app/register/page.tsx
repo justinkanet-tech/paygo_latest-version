@@ -48,8 +48,8 @@ export default function RegisterPage() {
       JSON.stringify({
         name,
         email,
-        balance: 180000,
-        weeklyRewards: 180000,
+        balance: 600000,
+        weeklyRewards: 600000,
         hasPayId: false,
         level: "Basic", // Add default level
       }),
